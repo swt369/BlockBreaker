@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android"
+    android:oneshot="true">
+    <item android:drawable="@drawable/score_0" android:duration="60"/>
+    <item android:drawable="@drawable/score_1" android:duration="60"/>
+    <item android:drawable="@drawable/score_2" android:duration="60"/>
+    <item android:drawable="@drawable/score_3" android:duration="60"/>
+    <item android:drawable="@drawable/score_4" android:duration="60"/>
+    <item android:drawable="@drawable/score_5" android:duration="60"/>
+    <item android:drawable="@drawable/score_6" android:duration="60"/>
+    <item android:drawable="@drawable/score_7" android:duration="60"/>
+    <item android:drawable="@drawable/score_8" android:duration="60"/>
+    <item android:drawable="@drawable/score_9" android:duration="60"/>
+</animation-list>
